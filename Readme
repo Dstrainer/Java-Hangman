@@ -1,3 +1,6 @@
-This is my version of the game Hangman. It was my final project from Introduction to Programming II class at Radford University.
+Welcome to JAVA Hangman. Like the original Hangman game but with a twist of JAVA words. Guess the word within 5 tries or Joe gets the noose.
+
+
+The game was created as my final project from Introduction to Programming II class at Radford University.
 The program is coded in Java MVC.
 @Author Dustin Trainer
